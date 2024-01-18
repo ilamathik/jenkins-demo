@@ -1,5 +1,5 @@
 #!/bin/bash
 
 # This is a simple script
-echo "Hello, World I am the second update!"
+echo "Hello, World I am the final update!"
 
